@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vinugawade
-- 👀 I’m interested in Web Dev
+- 👋 Hi, I’m @VinuGawade
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Diploma
-- 💞️ I’m looking to collaborate on Web Dev Field
+- 💞️ I’m looking to collaborate on Web Development Field
 - 📫 How to reach me...
 - On LinkedIn: https://www.linkedin.com/in/vinay-gawade-7716b01b1/
 
