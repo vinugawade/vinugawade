@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinuGawade
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Diploma
 - 💞️ I’m looking to collaborate on Web Development Field
 - 📫 How to reach me...
