@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinuGawade
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Diploma
+- 🌱 I’m currently Working at OSSeed Technologies LLP
 - 💞️ I’m looking to collaborate on Web Development Field
 - 📫 How to reach me...
   - ✅ On LinkedIn: https://www.linkedin.com/in/vinay-gawade-7716b01b1/
