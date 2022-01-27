@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **_Vinay Gawade_** ✨
 - 👀 Interested In **Web Development**
 - 👨🏻‍💻 Currently Working at **OSSeed Technologies LLP**
-- 💞️ Looking To Collaborate On ***Web Development Projects**
+- 💞️ Looking To Collaborate On **Web Development Projects**
 - 📫 How To Reach Me...
   - 👉 Connect Me On LinkedIn [Here](https://www.linkedin.com/in/vinay-gawade-7716b01b1/)
   - 👉 Connect Me On Instgram [Here](https://www.instagram.com/vinugawadevr/)
