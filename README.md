@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="top">
-      <a href="https://app.daily.dev/vinugawade"><img src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=fg2" width="400" alt="Vinay Gawade's Dev Card"/></a>
+      <a href="https://app.daily.dev/vinugawade"><img src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=fg2" target="_blank" width="400" alt="Vinay Gawade's Dev Card"/></a>
     </td>
   </tr>
 </table>
