@@ -1,5 +1,8 @@
 # Hey! It's Me😉
 
+<table>
+  <tr>
+    <td valign="top">
 - 👋 Hi, I’m **_Vinay Gawade_** ✨
 - 👀 Interested In **Web Development**
 - 👨🏻‍💻 Currently Working at **OSSeed Technologies LLP**
@@ -8,8 +11,12 @@
   - 👉 Connect Me On LinkedIn [Here](https://www.linkedin.com/in/vinay-gawade-7716b01b1/)
   - 👉 Connect Me On Instgram [Here](https://www.instagram.com/vinugawadevr/)
   - 👉 Connect Me On Twitter [Here](https://twitter.com/VinuGawade)
-  - 
-<a href="https://app.daily.dev/vinugawade"><img src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=fg2" width="400" alt="Vinay Gawade's Dev Card"/></a>
+    </td>
+    <td valign="top">
+      <a href="https://app.daily.dev/vinugawade"><img src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=fg2" width="400" alt="Vinay Gawade's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 
 ## About My Github Profile👨🏻‍💻
 
