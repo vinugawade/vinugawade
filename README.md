@@ -9,7 +9,7 @@
   - 👉 Connect Me On Instgram [Here](https://www.instagram.com/vinugawadevr/)
   - 👉 Connect Me On Twitter [Here](https://twitter.com/VinuGawade)
 
-<a href="https://app.daily.dev/vinugawade" target="_blank"><img src="https://github.com/vinugawade/vinugawade/blob/master/devcard.svg" width="400" alt="Vinay Gawade's Dev Card"/></a>
+<a href="https://app.daily.dev/vinugawade" target="_blank"><img src="https://github.com/vinugawade/vinugawade/blob/main/devcard.svg" width="400" alt="Vinay Gawade's Dev Card"/></a>
 ## About My Github Profile👨🏻‍💻
 
 ---
