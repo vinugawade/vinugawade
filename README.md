@@ -14,7 +14,7 @@
 
 ---
 
-![Profile Views](https://gpvc.arturio.dev/vinugawade) [![Repos Badge](https://badges.pufler.dev/repos/vinugawade)](https://github.com/vinugawade?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade)
+![Profile Views](https://gpvc.arturio.dev/vinugawade) [![Repos Badge](https://badges.pufler.dev/repos/vinugawade)](https://github.com/vinugawade?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade) [![Vinu's DevCard](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml/badge.svg)](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml)
 
 ## Technologies
 
