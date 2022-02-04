@@ -9,6 +9,8 @@
   - 👉 Connect Me On Instgram [Here](https://www.instagram.com/vinugawadevr/)
   - 👉 Connect Me On Twitter [Here](https://twitter.com/VinuGawade)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vinugawade/vinugawade/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 ## About My Github Profile👨🏻‍💻
 
 ---
