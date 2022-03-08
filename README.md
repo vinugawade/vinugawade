@@ -37,6 +37,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinugawade&layout=compact&theme=midnight-purple&cache_seconds=1800&hide_border=true&langs_count=10)
 ![All Stats](https://github-readme-stats.vercel.app/api?username=vinugawade&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&cache_seconds=1800&hide_border=true&show_owner=true)
+![](https://github.com/vinugawade/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/vinugawade/github-stats/blob/master/generated/languages.svg)
 
 ## Github Pins📌
 
