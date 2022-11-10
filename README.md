@@ -12,13 +12,11 @@
 <a href="https://app.daily.dev/vinugawade" target="_blank"><img align="right" src="https://github.com/vinugawade/vinugawade/blob/main/devcard.svg" width="400" alt="Vinay Gawade's Dev Card"/></a>
 ## About My Github Profile👨🏻‍💻
 
----
 
 ![Profile Views](https://gpvc.arturio.dev/vinugawade) [![Repos Badge](https://badges.pufler.dev/repos/vinugawade)](https://github.com/vinugawade?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade) [![Vinu's DevCard](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml/badge.svg)](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml)
 
 ## Technologies
 
----
 ![DRUPAL](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=drupal&message=Drupal&color=1572B6&labelColor=white&logoColor=1572B6)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=php&message=PHP&color=777BB4&labelColor=white)
 ![PYTHON](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=python&message=Python&color=1572B6&labelColor=white)
@@ -33,14 +31,10 @@
 
 ## Git Stats 🎯
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinugawade&layout=compact&theme=midnight-purple&cache_seconds=1800&hide_border=true&langs_count=10)
 ![All Stats](https://github-readme-stats.vercel.app/api?username=vinugawade&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&cache_seconds=1800&hide_border=true&show_owner=true)
 
 ## Github Pins📌
-
----
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=vinugawade&theme=midnight-purple)](https://github.com/vinugawade/vinugawade)
 
