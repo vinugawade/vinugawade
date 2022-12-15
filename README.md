@@ -5,9 +5,9 @@
 - 👨🏻‍💻 Currently Working at **OSSeed Technologies LLP**
 - 💞️ Looking To Collaborate On **Web Development Projects**
 - 📫 How To Reach Me...
-  - 👉 Connect Me On LinkedIn [Here](https://www.linkedin.com/in/vinay-gawade-7716b01b1/)
-  - 👉 Connect Me On Instgram [Here](https://www.instagram.com/vinugawadevr/)
-  - 👉 Connect Me On Twitter [Here](https://twitter.com/VinuGawade)
+  - 👉 On [LinkedIn](https://www.linkedin.com/in/vinu-gawade)
+  - 👉 On [Instagram](https://www.instagram.com/vinugawadevr)
+  - 👉 On [Twitter](https://twitter.com/VinuGawade)
 
 <a href="https://app.daily.dev/vinugawade" target="_blank"><img align="right" src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=qqh" width="400" alt="Vinay Gawade's Dev Card"/></a>
 ## About My Github Profile👨🏻‍💻
