@@ -13,7 +13,7 @@
 ## About My Github Profile👨🏻‍💻
 
 
-![Profile Views](https://gpvc.arturio.dev/vinugawade) [![Repos Badge](https://badges.pufler.dev/repos/vinugawade)](https://github.com/vinugawade?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade) [![Vinu's DevCard](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml/badge.svg)](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml)
+[![Profile Views](https://visitcount.itsvg.in/api?id=vinugawade&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in) [![Repos Badge](https://badges.pufler.dev/repos/vinugawade)](https://github.com/vinugawade?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade) [![Vinu's DevCard](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml/badge.svg)](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml)
 
 ## Technologies
 
