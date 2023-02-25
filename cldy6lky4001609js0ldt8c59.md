@@ -1,4 +1,4 @@
-# S-PHP :- Shell script to switch php versions on linux.
+# S-PHP :- Bash script to switch php versions on linux.
 
 Using **a Linux** system with multiple **PHP** versions installed by apt? Now you may look for an easy way to switch between multiple PHP versions without executing multiple commands manually, Well we can use [S-PHP](https://vinugawade.github.io/s-php) for that.
 
@@ -10,7 +10,7 @@ Clone the [S-PHP](https://github.com/vinugawade/s-php) repository to your local 
 git clone https://github.com/vinugawade/s-php.git
 ```
 
-Move the shell script file to `/usr/local/bin` location or use the command.
+Move the bash script file to `/usr/local/bin` location or use the command.
 
 ```bash
 sudo mv `/location/of/file` /usr/local/bin
@@ -42,7 +42,7 @@ export PATH=$PATH:`/location/of/file`
 
 This will set the variable name:- potentially in a file called `~/.bash_profile`**,** `~/.bashrc` and `~/.profile`**.** The difference between these files is (primarily) when they get read by the shell. If you're not sure where to put it, Then `~/.bashrc` is a good choice.
 
-**Note:- You may need to restart your shell for this to take effect.** 
+**Note:- You may need to restart your shell for this to take effect.**
 
 ### How to use the script:-
 
