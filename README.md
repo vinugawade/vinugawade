@@ -34,22 +34,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinugawade&layout=compact&theme=midnight-purple&cache_seconds=1800&hide_border=true&langs_count=10)
 ![All Stats](https://github-readme-stats.vercel.app/api?username=vinugawade&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&cache_seconds=1800&hide_border=true&show_owner=true)
 
-## Github Pins📌
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=vinugawade&theme=midnight-purple)](https://github.com/vinugawade/vinugawade)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=UR-Codes-lite&theme=midnight-purple)](https://github.com/vinugawade/UR-Codes-lite)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=Social_Account_Manager_In_CPP&theme=midnight-purple)](https://github.com/vinugawade/Social_Account_Manager_In_CPP)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=Demo_Covid-19_Survey_Form&theme=midnight-purple)](https://github.com/vinugawade/Demo_Covid-19_Survey_Form)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=Voting_System_in_C&theme=midnight-purple)](https://github.com/vinugawade/Voting_System_in_C)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=Morse_Code_Translator&theme=midnight-purple)](https://github.com/vinugawade/Morse_Code_Translator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinugawade&repo=Whoami&theme=midnight-purple)](https://github.com/vinugawade/Whoami)
-
 <!--- &logoColor=violet
 vinugawade/vinugawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
