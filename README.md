@@ -4,35 +4,53 @@
 - 👀 Interested In **Web Development**
 - 👨🏻‍💻 Currently Working at **OSSeed Technologies LLP**
 - 💞️ Looking To Collaborate On **Web Development Projects**
-- 📫 How To Reach Me...
-  - 👉 On [LinkedIn](https://www.linkedin.com/in/vinu-gawade)
-  - 👉 On [Instagram](https://www.instagram.com/vinugawadevr)
-  - 👉 On [Twitter](https://twitter.com/VinuGawade)
 
-<a href="https://app.daily.dev/vinugawade" target="_blank"><img align="right" src="https://api.daily.dev/devcards/c8457c6e687d407197d39cfaf513c57a.png?r=qqh" width="400" alt="Vinay Gawade's Dev Card"/></a>
-## About My Github Profile👨🏻‍💻
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinu-gawade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VinuGawade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinugawadevr) 
 
+<div style="display: flex; justify-content: center;">
+  <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 100%;">
+    <img src="https://api.daily.dev/devcards/v2/QrETaiZ4xZbpTOoYtvrOr.png?type=wide&r=i5t" alt="Vinay Gawade's Dev Card"/>
+  </a>
+</div>
+
+## 👨🏻‍💻 About My Github Profile  
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=vinugawade&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in) [![Commits Badge](https://badges.pufler.dev/commits/monthly/vinugawade)](https://github.com/vinugawade) [![Vinu's DevCard](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml/badge.svg)](https://github.com/vinugawade/vinugawade/actions/workflows/vinugawade.yml)
 
-## Technologies
+## 🎯💻 Tech Stack
 
-![DRUPAL](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=drupal&message=Drupal&color=1572B6&labelColor=white&logoColor=1572B6)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=php&message=PHP&color=777BB4&labelColor=white)
-![PYTHON](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=python&message=Python&color=1572B6&labelColor=white)
-![HTML5](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=HTML5&message=HTML5&color=E34F26&labelColor=white)
-![JAVASCRIPT](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=JavaScript&message=JavaScript&color=F7DF1E&labelColor=black)
-![BOOTSTRAP](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=BOOTSTRAP&message=Bootstrap&color=7952B3&labelColor=white&logoColor=7952B3)
-![CSS3](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=CSS3&message=CSS3&color=1572B6&labelColor=white&logoColor=1572B6)
-![SASS](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=SASS&message=SASS&color=CC6699&labelColor=white&logoColor=CC6699)
-![MySQL](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=MySQL&message=MySQL&color=4479A1&labelColor=white&logoColor=1572B6)
-![GitHub](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=GitHub&message=GitHub&color=181717&labelColor=white&logoColor=181717)
-![Git](https://img.shields.io/static/v1?style=flat-square&label&style=for-the-badge&logo=Git&message=Git&color=F05032&labelColor=white&logoColor=F05032)
+![Drupal](https://img.shields.io/badge/drupal-FFFFFF.svg?style=for-the-badge&logo=Drupal&logoColor=%230678BE)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![civicrm](https://img.shields.io/badge/civicrm-%2381C459.svg?style=for-the-badge&logo=civicrm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23E34F26)
+![GitHub](https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=GitHub&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=%23D22128)
+![Bootstrap](https://img.shields.io/badge/bootstrap5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=23D42029)
+![VSCode](https://img.shields.io/badge/vscode-FFFFFF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=1572B6)
 
-## Git Stats 🎯
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinugawade&theme=dark&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinugawade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinugawade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinugawade&layout=compact&theme=midnight-purple&cache_seconds=1800&hide_border=true&langs_count=10)
-![All Stats](https://github-readme-stats.vercel.app/api?username=vinugawade&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&cache_seconds=1800&hide_border=true&show_owner=true)
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=vinugawade&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinaygawade) 
 
 <!--- &logoColor=violet
 vinugawade/vinugawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
