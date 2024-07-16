@@ -36,7 +36,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=%23D22128)
 ![Bootstrap](https://img.shields.io/badge/bootstrap5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=23D42029)
 ![VSCode](https://img.shields.io/badge/vscode-FFFFFF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=1572B6)
@@ -52,6 +52,7 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinaygawade) 
 
+![github-readme-banner](https://githubcard.rajaryan.work/user/vinugawade)
 <!--- &logoColor=violet
 vinugawade/vinugawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
