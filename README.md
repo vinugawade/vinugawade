@@ -8,9 +8,12 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinu-gawade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VinuGawade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinugawadevr) 
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 100%;">
-    <img src="https://api.daily.dev/devcards/v2/QrETaiZ4xZbpTOoYtvrOr.png?type=wide&r=i5t" alt="Vinay Gawade's Dev Card"/>
+<div style="display: inline-flex; justify-content: center;">
+  <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 70%;">
+    <img style="width: 58%;" src="https://api.daily.dev/devcards/v2/QrETaiZ4xZbpTOoYtvrOr.png?type=wide&r=i5t" alt="Vinay Gawade's Dev Card"/>
+  </a>
+  <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 30%;">
+    <img style="width: 30%;" alt="July 2025 Top Reader in Data Lake" src="https://github.com/user-attachments/assets/a7e3d0cc-6ecb-4c38-a2cb-d107b509e605" />
   </a>
 </div>
 
