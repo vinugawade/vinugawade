@@ -13,12 +13,17 @@
     <img style="width: 100%;" src="https://api.daily.dev/devcards/v2/QrETaiZ4xZbpTOoYtvrOr.png?type=wide&r=i5t" alt="Vinay Gawade's Dev Card"/>
   </a>
   <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 30%;">
-    <img style="width: 40%;" alt="July 2025 Top Reader in Data Lake" src="https://github.com/user-attachments/assets/a7e3d0cc-6ecb-4c38-a2cb-d107b509e605" />
+    <img style="width: 30%;" alt="July 2025 Top Reader in Data Lake" src="https://github.com/user-attachments/assets/a7e3d0cc-6ecb-4c38-a2cb-d107b509e605" />
   </a>
   
   <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 30%;">
-    <img style="width: 40%;" alt="September 2025 Top Reader in Conversational AI" src="https://github.com/user-attachments/assets/fc5439fb-edfc-4e0e-9d73-994a27aa5a26" />
+    <img style="width: 30%;" alt="September 2025 Top Reader in Conversational AI" src="https://github.com/user-attachments/assets/fc5439fb-edfc-4e0e-9d73-994a27aa5a26" />
   </a>
+  
+  <a href="https://app.daily.dev/vinugawade" target="_blank" style="width: 30%;">
+    <img style="width: 30%;" alt="August 2026 Top Reader in Vite" src="https://github.com/user-attachments/assets/8d27aa32-764e-47ce-8403-f3cd139fdc2e" />
+  </a>
+
 </div>
 
 ## 👨🏻‍💻 About My Github Profile  
